@@ -115,6 +115,27 @@ anywhere else** — always read them from this file.
 
 ---
 
+## Personal Knowledge Base
+
+This folder (`C:/Users/BeccaLevin/OneDrive - Sego Therapeutics Inc/BeccaClaude`) is Becca's personal knowledge base. Treat it as her second brain.
+
+### Rules
+
+**Saving notes:** When Becca asks to save, remember, or note something, write it as a Markdown file in the most relevant folder:
+- Meeting notes, research summaries, working thoughts → `Research/notes/`
+- BD contacts, deal context, partner intel → `BD/`
+- Investor notes, fundraising context → `Fundraising/`
+- Competitive intel, market observations → `Competitive-Intelligence/`
+- If nothing fits, save to `Research/notes/`
+
+Use a short descriptive filename with today's date, e.g. `2026-04-14-meeting-with-atlas.md`.
+
+**Reading notes:** When Becca asks "what do I know about X", "what did I save about Y", or "remind me about Z", search this folder using Glob and Grep before responding. Surface relevant content directly rather than asking her to find it herself.
+
+**Never delete notes** without explicit confirmation.
+
+---
+
 ## Lazy-Load References
 
 | File | When to load |
