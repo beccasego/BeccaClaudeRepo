@@ -1,0 +1,15 @@
+# Obsidian system files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# Claude local config (personal paths — each user keeps their own)
+.claude/knowledge-base.local.md
+
+# Temp files
+temp-starter/
+
+# Environment / secrets
+.env
+credentials*.json
