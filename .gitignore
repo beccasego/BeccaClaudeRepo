@@ -11,9 +11,8 @@
 # Temp files
 temp-starter/
 
-# Top-level cache
-cache/
-!cache/README.md
+# Top-level cache contents (keep the folder, ignore contents)
+cache/*
 !cache/.gitkeep
 
 # Node
