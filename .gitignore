@@ -28,6 +28,9 @@ venv/
 .DS_Store
 Thumbs.db
 
+# Too large for GitHub (>100MB)
+/Fundraising/pitch-materials/Sego_PPT Master Deck_20260428.pptx
+
 # Environment / secrets
 .env
 credentials*.json
